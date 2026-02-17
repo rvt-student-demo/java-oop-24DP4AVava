@@ -1,7 +1,12 @@
 package rvt;
+import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) {
-        // Your code goes here...
+    public static void App(String[] args) {
+ 
+        ToDoList list = new ToDoList();
+        Scanner scanner = new Scanner(System.in);
+ 
     }
 }
+
